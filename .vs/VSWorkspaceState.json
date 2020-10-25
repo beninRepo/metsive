@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\mail",
+    "\\js"
   ],
+  "SelectedNode": "\\assets\\mail\\contact_me.php",
   "PreviewInSolutionExplorer": false
 }
