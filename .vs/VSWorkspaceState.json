@@ -4,8 +4,9 @@
     "\\assets",
     "\\assets\\img",
     "\\assets\\mail",
+    "\\css",
     "\\js"
   ],
-  "SelectedNode": "\\assets\\mail\\contact_me.php",
+  "SelectedNode": "\\css\\styles.css",
   "PreviewInSolutionExplorer": false
 }
